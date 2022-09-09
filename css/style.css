@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+body {
+    margin: 0px;
+    font-family: 'Montserrat';
+}
+
+.conteiner {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1,
+h1,
+h3 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.text_info {
+    width: 465px;
+
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-top: 60px;
+    padding-bottom: 82px;
+    width: 182px;
+    height: 30px;
+}
+
+.cow {
+    width: 465px;
+}
+
+.text_info a {
+    background: #FF6861;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 136.7%;
+    border-radius: 100px;
+    text-decoration: none;
+    display: block;
+    width: 227px;
+    text-align: center;
+    padding: 22px 70px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    transition: all 0.5s ease;
+}
+
+.text_info a:hover {
+    background: rgb(255, 153, 118);
+
+}
+
+.text_info h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.content {
+    display: flex;
+    gap: 34px;
+    align-items: center;
+    margin-bottom: 41px;
+
+}
+
+.advantage {
+    max-width: 720px;
+    margin: 0 auto;
+    display: flex;
+}
+
+
+.advantage h2 {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 120px;
+    margin-bottom: 70px;
+}
+
+.content img {
+    width: 73px;
+}
+
+.action_info__text a {
+    background: #FF6861;
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 136.7%;
+    border-radius: 100px;
+    text-decoration: none;
+    display: block;
+    width: 227px;
+    text-align: center;
+    padding: 22px 70px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    transition: all 0.5s ease;
+}
+
+.action_info__text a:hover {
+    background: rgb(255, 153, 118);
+}
+
+.action_info {
+    margin-top: 120px;
+    display: flex;
+    align-items: center;
+    width: 1110px;
+    height: 486px;
+    background: linear-gradient(102deg, #FFF6DF 17.38%, #FFDFDE 81.25%);
+    border-radius: 60px;
+    justify-content: center;
+    gap: 101px;
+
+}
+
+
+.action_info__text h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 140%;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+
+.action_info__text {
+    width: 475px;
+}
+
+.action_info__text a {
+    margin-top: 24px;
+}
+
+.credits {
+    text-align: center;
+    display: block;
+    padding: 120px 0;
+}
